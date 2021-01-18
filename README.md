@@ -1,2 +1,4 @@
-# A_Course_in_Machine_Learning
+# Machine Learning Course
 Instructor: Andrew Ng 
+
+Offered by Stanford University
